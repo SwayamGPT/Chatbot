@@ -200,10 +200,6 @@ If running on limited hardware:
 - Reduce `chunk_size` in line 128 (currently 1000)
 - Reduce `k` in line 137 (currently 3) for fewer retrieved documents
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
